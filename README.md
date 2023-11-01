@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydeepk8&label=Profile%20views&color=0e75b6&style=flat" alt="jaydeepk8" /> </p>
 
-- 🌱 I’m currently learning **AI, ML, Python**
+- 🌱 I’m currently learning **AI, ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
